@@ -15,5 +15,5 @@ This is fully supported and tested in Minecraft 1.17 with all wood types
 ## Installation
  1. Download the code (Press the green code button on the main repo page, then Download ZIP)
  2. Open your Minecraft world folder
- 3. Navigate to the datapacks folder and copy the zip file in to it
+ 3. Navigate to the datapacks folder and extract the zip file in to it
  4. If the world was open type the command /reload
