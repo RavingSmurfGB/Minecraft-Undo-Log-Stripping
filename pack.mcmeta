@@ -1,24 +1,7 @@
 {
   "pack": {
     "pack_format": 7,
-    "description": "De-Strip Data Pack"
-  }
-}
-
-
-
-{
-  "type": "crafting_shaped",
-  "pattern": [
-    "TT"
-  ],
-  "key": {
-    "T": {
-      "tag": "minecraft:stripped_warped_stem"
-    },
-  },
-  "result": {
-    "item": "minecraft:warped_stem"
+    "description": "Minecraft Undo Log Stripping"
   }
 }
 
